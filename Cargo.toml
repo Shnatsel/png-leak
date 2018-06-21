@@ -1,0 +1,7 @@
+[package]
+name = "png-leak"
+version = "0.1.0"
+authors = ["Sergey \"Shnatsel\" Davidoff <shnatsel@gmail.com>"]
+
+[dependencies]
+png = {git = "https://github.com/Shnatsel/image-png.git"}
